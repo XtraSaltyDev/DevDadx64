@@ -15,7 +15,7 @@ I’m a **Junior Developer** with a strong **IT support + networking** foundatio
 - 🧰 Leveling up on testing, architecture, and “ship it” deployment habits
 
 **Current project:**  
-- 📈 Stock Tracker App: https://github.com/DevDadx64/CEIS150-Code
+- 📈 Ticket Management Tool: https://github.com/DevDadx64/TicketTracker
 
 ---
 
