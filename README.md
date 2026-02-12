@@ -1,4 +1,4 @@
-# Hi 👋 I’m Miller (DevDadx64)
+# Hi 👋 I’m Miller
 
 I’m a **Junior Developer** with a strong **IT support + networking** foundation, building practical apps and automations while sharpening my full-stack skills.
 
@@ -15,7 +15,7 @@ I’m a **Junior Developer** with a strong **IT support + networking** foundatio
 - 🧰 Leveling up on testing, architecture, and “ship it” deployment habits
 
 **Current project:**  
-- 📈 Ticket Management Tool: https://github.com/DevDadx64/TicketTracker
+- 📈 BasedShell: https://github.com/DevDadx64/BasedShell
 
 ---
 
