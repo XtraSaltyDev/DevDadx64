@@ -6,7 +6,7 @@ I’m a **Junior Developer** with a strong **IT support + networking** foundatio
 - 💼 Current focus: **Laravel + Filament** (TALL stack), clean CRUD, dashboards, and real-world workflows
 - 🧠 Also into: **networking, security fundamentals**, scripting/automation, and homelab tinkering
 - 🤝 Open to: mentorship, code reviews, and collaboration on beginner-friendly or real-business projects
-- ✉️ Reach me: **devdadx64@outlook.com**
+- ✉️ Reach me: **xtrasaltydev@gmail.com**
 
 ---
 
@@ -15,7 +15,7 @@ I’m a **Junior Developer** with a strong **IT support + networking** foundatio
 - 🧰 Leveling up on testing, architecture, and “ship it” deployment habits
 
 **Current project:**  
-- 📈 BasedShell: https://github.com/DevDadx64/BasedShell
+- 📈 BasedShell: https://github.com/XtraSaltyDev/BasedShell
 
 ---
 
